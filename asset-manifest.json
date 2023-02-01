@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MasterAdmin/static/css/main.501ee7f8.css",
+    "main.js": "/MasterAdmin/static/js/main.5f81c90f.js",
+    "index.html": "/MasterAdmin/index.html",
+    "main.501ee7f8.css.map": "/MasterAdmin/static/css/main.501ee7f8.css.map",
+    "main.5f81c90f.js.map": "/MasterAdmin/static/js/main.5f81c90f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501ee7f8.css",
+    "static/js/main.5f81c90f.js"
+  ]
+}
